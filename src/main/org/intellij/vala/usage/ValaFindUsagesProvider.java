@@ -8,7 +8,6 @@ import com.intellij.lexer.FlexAdapter;
 import com.intellij.psi.PsiElement;
 import com.intellij.psi.PsiNamedElement;
 import com.intellij.psi.tree.TokenSet;
-import org.intellij.vala.lexer.ValaLexer;
 import org.intellij.vala.lexer._ValaLexer;
 import org.intellij.vala.parser.ValaParserDefinition;
 import org.jetbrains.annotations.NotNull;

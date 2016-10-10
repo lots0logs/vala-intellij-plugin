@@ -5,7 +5,6 @@ import com.intellij.lexer.Lexer;
 import com.intellij.lexer.LexerPosition;
 import com.intellij.psi.tree.IElementType;
 import org.intellij.vala.psi.ValaTokenType;
-import org.intellij.vala.psi.ValaTypes;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 

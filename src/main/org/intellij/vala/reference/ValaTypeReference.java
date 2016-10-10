@@ -1,11 +1,9 @@
 package org.intellij.vala.reference;
 
-import com.google.common.collect.Iterables;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.util.TextRange;
 import com.intellij.psi.PsiElement;
 import com.intellij.psi.PsiReferenceBase;
-import com.intellij.psi.search.GlobalSearchScope;
 import org.intellij.vala.psi.QualifiedName;
 import org.intellij.vala.psi.ValaSymbol;
 import org.intellij.vala.psi.impl.QualifiedNameBuilder;

@@ -4,10 +4,8 @@ import com.intellij.psi.stubs.IStubElementType;
 import com.intellij.psi.stubs.StubBase;
 import com.intellij.psi.stubs.StubElement;
 import org.intellij.vala.psi.QualifiedName;
-import org.intellij.vala.psi.ValaClassDeclaration;
 import org.intellij.vala.psi.ValaInterfaceDeclaration;
 import org.intellij.vala.psi.ValaTypes;
-import org.intellij.vala.psi.stub.ValaClassDeclarationStub;
 import org.intellij.vala.psi.stub.ValaInterfaceDeclarationStub;
 
 public class ValaInterfaceDeclarationStubImpl extends StubBase<ValaInterfaceDeclaration> implements ValaInterfaceDeclarationStub {

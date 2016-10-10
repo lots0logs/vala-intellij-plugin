@@ -2,7 +2,6 @@ package org.intellij.vala.psi.impl;
 
 
 import com.intellij.psi.PsiElement;
-import com.intellij.psi.PsiReference;
 import org.intellij.vala.psi.*;
 import org.intellij.vala.psi.index.DeclarationQualifiedNameIndex;
 import org.jetbrains.annotations.NotNull;

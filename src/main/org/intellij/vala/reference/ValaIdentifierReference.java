@@ -1,10 +1,7 @@
 package org.intellij.vala.reference;
 
-import com.intellij.openapi.util.TextRange;
 import com.intellij.psi.PsiElement;
 import com.intellij.psi.PsiNamedElement;
-import com.intellij.psi.PsiReference;
-import com.intellij.psi.PsiReferenceBase;
 import com.intellij.util.IncorrectOperationException;
 import org.intellij.vala.psi.*;
 import org.intellij.vala.psi.impl.ValaPsiImplUtil;

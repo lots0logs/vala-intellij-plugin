@@ -2,8 +2,6 @@ package org.intellij.vala.psi.inference;
 
 
 import com.google.common.collect.ImmutableList;
-import com.intellij.psi.PsiElement;
-import com.intellij.psi.PsiReference;
 import org.apache.http.util.Asserts;
 import org.intellij.vala.psi.*;
 import org.intellij.vala.psi.impl.ValaPsiElementUtil;
